@@ -1,0 +1,17 @@
+body{
+    font-family: cursive;
+
+    background-color: rgb(117, 164, 164);
+    color: azure;
+}
+
+
+header{
+    background-color: rgb(135, 179, 179);
+    color: azure;
+}
+
+button{
+    font-family: sans-serif;
+    background-color: rgb(206, 253, 253);
+}
